@@ -23,6 +23,7 @@ Programming-Challenges/
 │   ├── Stack/
 │   ├── Sliding-Window/
 │   ├── Linked-List/
+│   │   └── 0002-add-two-numbers/
 │   ├── Trees/
 │   └── Graphs/
 ├── HackerRank/
@@ -41,6 +42,7 @@ Programming-Challenges/
 | # | Problema | Categoria | Dificuldade | Tempo | Espaço | Solução |
 | :-: | :--- | :--- | :-: | :-: | :-: | :-: |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Arrays & Hashing | Easy | $O(n)$ | $O(n)$ | [Java](./LeetCode/Arrays-Hashing/0001-two-sum/) |
+| 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Linked List | Medium | $O(\max(N, M))$ | $O(\max(N, M))$ | [Java](./LeetCode/Linked-List/0002-add-two-numbers/) |
 
 ---
 
@@ -51,11 +53,13 @@ Cada desafio possui sua própria classe auto-contida com método `main` demonstr
 ### Compilação e Execução via Terminal:
 
 ```bash
-# Compilar
+# Exemplo: Two Sum
 javac LeetCode/Arrays-Hashing/0001-two-sum/Solution.java
-
-# Executar
 java -cp LeetCode/Arrays-Hashing/0001-two-sum Solution
+
+# Exemplo: Add Two Numbers
+javac LeetCode/Linked-List/0002-add-two-numbers/Solution.java
+java -cp LeetCode/Linked-List/0002-add-two-numbers Solution
 ```
 
 ---
