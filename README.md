@@ -106,6 +106,16 @@ Programming-Challenges/
 | 0063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | Dynamic Programming | Medium | $O(m \times n)$ | $O(\min(m, n))$ | [Java](./LeetCode/Dynamic-Programming/0063-unique-paths-ii/) |
 | 0064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Dynamic Programming | Medium | $O(m \times n)$ | $O(\min(m, n))$ | [Java](./LeetCode/Dynamic-Programming/0064-minimum-path-sum/) |
 | 0065 | [Valid Number](https://leetcode.com/problems/valid-number/) | Strings / Finite State Machine | Hard | $O(n)$ | $O(1)$ | [Java](./LeetCode/Strings/0065-valid-number/) |
+| 0066 | [Plus One](https://leetcode.com/problems/plus-one/) | Arrays & Hashing | Easy | $O(n)$ | $O(1)$ | [Java](./LeetCode/Arrays-Hashing/0066-plus-one/) |
+| 0067 | [Add Binary](https://leetcode.com/problems/add-binary/) | Math / Strings | Easy | $O(\max(n, m))$ | $O(\max(n, m))$ | [Java](./LeetCode/Math/0067-add-binary/) |
+| 0068 | [Text Justification](https://leetcode.com/problems/text-justification/) | Strings | Hard | $O(n \times \text{maxWidth})$ | $O(n \times \text{maxWidth})$ | [Java](./LeetCode/Strings/0068-text-justification/) |
+| 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Math / Binary Search | Easy | $O(\log x)$ | $O(1)$ | [Java](./LeetCode/Math/0069-sqrt/) |
+| 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Dynamic Programming | Easy | $O(n)$ | $O(1)$ | [Java](./LeetCode/Dynamic-Programming/0070-climbing-stairs/) |
+| 0071 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | Stack / Strings | Medium | $O(n)$ | $O(n)$ | [Java](./LeetCode/Stack/0071-simplify-path/) |
+| 0072 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | Dynamic Programming | Hard | $O(m \times n)$ | $O(n)$ | [Java](./LeetCode/Dynamic-Programming/0072-edit-distance/) |
+| 0073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Arrays & Hashing / Matrix | Medium | $O(m \times n)$ | $O(1)$ | [Java](./LeetCode/Arrays-Hashing/0073-set-matrix-zeroes/) |
+| 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Arrays & Hashing / Binary Search | Medium | $O(\log(m \times n))$ | $O(1)$ | [Java](./LeetCode/Arrays-Hashing/0074-search-2d-matrix/) |
+| 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Arrays & Hashing / Two Pointers | Medium | $O(n)$ | $O(1)$ | [Java](./LeetCode/Arrays-Hashing/0075-sort-colors/) |
 
 ---
 
