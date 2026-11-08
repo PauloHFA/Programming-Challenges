@@ -101,6 +101,11 @@ Programming-Challenges/
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Strings | Easy | $O(n)$ | $O(1)$ | [Java](./LeetCode/Strings/0058-length-of-last-word/) |
 | 0059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | Arrays & Hashing / Matrix | Medium | $O(n^2)$ | $O(1)$ | [Java](./LeetCode/Arrays-Hashing/0059-spiral-matrix-ii/) |
 | 0060 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | Backtracking / Math | Hard | $O(n^2)$ | $O(n)$ | [Java](./LeetCode/Backtracking/0060-permutation-sequence/) |
+| 0061 | [Rotate List](https://leetcode.com/problems/rotate-list/) | Linked List | Medium | $O(n)$ | $O(1)$ | [Java](./LeetCode/Linked-List/0061-rotate-list/) |
+| 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | Dynamic Programming | Medium | $O(m \times n)$ | $O(\min(m, n))$ | [Java](./LeetCode/Dynamic-Programming/0062-unique-paths/) |
+| 0063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | Dynamic Programming | Medium | $O(m \times n)$ | $O(\min(m, n))$ | [Java](./LeetCode/Dynamic-Programming/0063-unique-paths-ii/) |
+| 0064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Dynamic Programming | Medium | $O(m \times n)$ | $O(\min(m, n))$ | [Java](./LeetCode/Dynamic-Programming/0064-minimum-path-sum/) |
+| 0065 | [Valid Number](https://leetcode.com/problems/valid-number/) | Strings / Finite State Machine | Hard | $O(n)$ | $O(1)$ | [Java](./LeetCode/Strings/0065-valid-number/) |
 
 ---
 
