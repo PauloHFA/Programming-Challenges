@@ -43,6 +43,9 @@ Programming-Challenges/
 | :-: | :--- | :--- | :-: | :-: | :-: | :-: |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Arrays & Hashing | Easy | $O(n)$ | $O(n)$ | [Java](./LeetCode/Arrays-Hashing/0001-two-sum/) |
 | 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Linked List | Medium | $O(\max(N, M))$ | $O(\max(N, M))$ | [Java](./LeetCode/Linked-List/0002-add-two-numbers/) |
+| 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Sliding Window | Medium | $O(n)$ | $O(\min(m, n))$ | [Java](./LeetCode/Sliding-Window/0003-longest-substring-without-repeating-characters/) |
+| 0004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Arrays & Hashing (Binary Search) | Hard | $O(\log(\min(m, n)))$ | $O(1)$ | [Java](./LeetCode/Arrays-Hashing/0004-median-of-two-sorted-arrays/) |
+| 0005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Strings (Two Pointers) | Medium | $O(n^2)$ | $O(1)$ | [Java](./LeetCode/Strings/0005-longest-palindromic-substring/) |
 
 ---
 
