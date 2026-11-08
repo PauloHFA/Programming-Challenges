@@ -71,6 +71,26 @@ Programming-Challenges/
 | 0028 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Strings / Two Pointers | Easy | $O(n \times m)$ | $O(1)$ | [Java](./LeetCode/Strings/0028-find-the-index-of-the-first-occurrence-in-a-string/) |
 | 0029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | Math / Bit Manipulation | Medium | $O(\log n)$ | $O(1)$ | [Java](./LeetCode/Math/0029-divide-two-integers/) |
 | 0030 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | Strings / Sliding Window | Hard | $O(n \times k)$ | $O(m \times k)$ | [Java](./LeetCode/Strings/0030-substring-with-concatenation-of-all-words/) |
+| 0031 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | Two Pointers | Medium | $O(n)$ | $O(1)$ | [Java](./LeetCode/Two-Pointers/0031-next-permutation/) |
+| 0032 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | Stack / DP | Hard | $O(n)$ | $O(n)$ | [Java](./LeetCode/Stack/0032-longest-valid-parentheses/) |
+| 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Arrays & Hashing / Binary Search | Medium | $O(\log n)$ | $O(1)$ | [Java](./LeetCode/Arrays-Hashing/0033-search-in-rotated-sorted-array/) |
+| 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Arrays & Hashing / Binary Search | Medium | $O(\log n)$ | $O(1)$ | [Java](./LeetCode/Arrays-Hashing/0034-find-first-and-last-position-of-element-in-sorted-array/) |
+| 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Arrays & Hashing / Binary Search | Easy | $O(\log n)$ | $O(1)$ | [Java](./LeetCode/Arrays-Hashing/0035-search-insert-position/) |
+| 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Arrays & Hashing / Matrix | Medium | $O(1)$ | $O(1)$ | [Java](./LeetCode/Arrays-Hashing/0036-valid-sudoku/) |
+| 0037 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | Backtracking | Hard | $O(1)$ | $O(1)$ | [Java](./LeetCode/Backtracking/0037-sudoku-solver/) |
+| 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/) | Strings | Medium | $O(2^n)$ | $O(2^n)$ | [Java](./LeetCode/Strings/0038-count-and-say/) |
+| 0039 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Backtracking | Medium | $O(N^{T/M})$ | $O(T/M)$ | [Java](./LeetCode/Backtracking/0039-combination-sum/) |
+| 0040 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Backtracking | Medium | $O(2^N)$ | $O(N)$ | [Java](./LeetCode/Backtracking/0040-combination-sum-ii/) |
+| 0041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Arrays & Hashing | Hard | $O(n)$ | $O(1)$ | [Java](./LeetCode/Arrays-Hashing/0041-first-missing-positive/) |
+| 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Arrays & Hashing / Two Pointers | Hard | $O(n)$ | $O(1)$ | [Java](./LeetCode/Arrays-Hashing/0042-trapping-rain-water/) |
+| 0043 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | Strings / Math | Medium | $O(m \times n)$ | $O(m + n)$ | [Java](./LeetCode/Strings/0043-multiply-strings/) |
+| 0044 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | Dynamic Programming | Hard | $O(m \times n)$ | $O(m \times n)$ | [Java](./LeetCode/Dynamic-Programming/0044-wildcard-matching/) |
+| 0045 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | Arrays & Hashing / Greedy | Medium | $O(n)$ | $O(1)$ | [Java](./LeetCode/Arrays-Hashing/0045-jump-game-ii/) |
+| 0046 | [Permutations](https://leetcode.com/problems/permutations/) | Backtracking | Medium | $O(n! \times n)$ | $O(n)$ | [Java](./LeetCode/Strings/0046-permutations/) |
+| 0047 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | Backtracking | Medium | $O(n! \times n)$ | $O(n)$ | [Java](./LeetCode/Backtracking/0047-permutations-ii/) |
+| 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Arrays & Hashing / Matrix | Medium | $O(n^2)$ | $O(1)$ | [Java](./LeetCode/Arrays-Hashing/0048-rotate-image/) |
+| 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Arrays & Hashing | Medium | $O(n \times k \log k)$ | $O(n \times k)$ | [Java](./LeetCode/Arrays-Hashing/0049-group-anagrams/) |
+| 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Math / Binary Exponentiation | Medium | $O(\log n)$ | $O(1)$ | [Java](./LeetCode/Math/0050-powx-n/) |
 
 ---
 
