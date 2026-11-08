@@ -91,6 +91,16 @@ Programming-Challenges/
 | 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Arrays & Hashing / Matrix | Medium | $O(n^2)$ | $O(1)$ | [Java](./LeetCode/Arrays-Hashing/0048-rotate-image/) |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Arrays & Hashing | Medium | $O(n \times k \log k)$ | $O(n \times k)$ | [Java](./LeetCode/Arrays-Hashing/0049-group-anagrams/) |
 | 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Math / Binary Exponentiation | Medium | $O(\log n)$ | $O(1)$ | [Java](./LeetCode/Math/0050-powx-n/) |
+| 0051 | [N-Queens](https://leetcode.com/problems/n-queens/) | Backtracking | Hard | $O(N!)$ | $O(N)$ | [Java](./LeetCode/Backtracking/0051-n-queens/) |
+| 0052 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | Backtracking | Hard | $O(N!)$ | $O(N)$ | [Java](./LeetCode/Backtracking/0052-n-queens-ii/) |
+| 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Arrays & Hashing / DP | Medium | $O(n)$ | $O(1)$ | [Java](./LeetCode/Arrays-Hashing/0053-maximum-subarray/) |
+| 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Arrays & Hashing / Matrix | Medium | $O(m \times n)$ | $O(1)$ | [Java](./LeetCode/Arrays-Hashing/0054-spiral-matrix/) |
+| 0055 | [Jump Game](https://leetcode.com/problems/jump-game/) | Arrays & Hashing / Greedy | Medium | $O(n)$ | $O(1)$ | [Java](./LeetCode/Arrays-Hashing/0055-jump-game/) |
+| 0056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Arrays & Hashing / Sorting | Medium | $O(n \log n)$ | $O(n)$ | [Java](./LeetCode/Arrays-Hashing/0056-merge-intervals/) |
+| 0057 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | Arrays & Hashing | Medium | $O(n)$ | $O(n)$ | [Java](./LeetCode/Arrays-Hashing/0057-insert-interval/) |
+| 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Strings | Easy | $O(n)$ | $O(1)$ | [Java](./LeetCode/Strings/0058-length-of-last-word/) |
+| 0059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | Arrays & Hashing / Matrix | Medium | $O(n^2)$ | $O(1)$ | [Java](./LeetCode/Arrays-Hashing/0059-spiral-matrix-ii/) |
+| 0060 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | Backtracking / Math | Hard | $O(n^2)$ | $O(n)$ | [Java](./LeetCode/Backtracking/0060-permutation-sequence/) |
 
 ---
 
