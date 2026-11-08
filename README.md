@@ -46,6 +46,11 @@ Programming-Challenges/
 | 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Sliding Window | Medium | $O(n)$ | $O(\min(m, n))$ | [Java](./LeetCode/Sliding-Window/0003-longest-substring-without-repeating-characters/) |
 | 0004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Arrays & Hashing (Binary Search) | Hard | $O(\log(\min(m, n)))$ | $O(1)$ | [Java](./LeetCode/Arrays-Hashing/0004-median-of-two-sorted-arrays/) |
 | 0005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Strings (Two Pointers) | Medium | $O(n^2)$ | $O(1)$ | [Java](./LeetCode/Strings/0005-longest-palindromic-substring/) |
+| 0006 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Strings | Medium | $O(n)$ | $O(n)$ | [Java](./LeetCode/Strings/0006-zigzag-conversion/) |
+| 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Math | Medium | $O(\log x)$ | $O(1)$ | [Java](./LeetCode/Math/0007-reverse-integer/) |
+| 0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | Strings | Medium | $O(n)$ | $O(1)$ | [Java](./LeetCode/Strings/0008-string-to-integer-atoi/) |
+| 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Math | Easy | $O(\log n)$ | $O(1)$ | [Java](./LeetCode/Math/0009-palindrome-number/) |
+| 0010 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | Dynamic Programming | Hard | $O(m \times n)$ | $O(m \times n)$ | [Java](./LeetCode/Dynamic-Programming/0010-regular-expression-matching/) |
 
 ---
 
