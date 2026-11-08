@@ -51,6 +51,16 @@ Programming-Challenges/
 | 0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | Strings | Medium | $O(n)$ | $O(1)$ | [Java](./LeetCode/Strings/0008-string-to-integer-atoi/) |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Math | Easy | $O(\log n)$ | $O(1)$ | [Java](./LeetCode/Math/0009-palindrome-number/) |
 | 0010 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | Dynamic Programming | Hard | $O(m \times n)$ | $O(m \times n)$ | [Java](./LeetCode/Dynamic-Programming/0010-regular-expression-matching/) |
+| 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Two Pointers | Medium | $O(n)$ | $O(1)$ | [Java](./LeetCode/Two-Pointers/0011-container-with-most-water/) |
+| 0012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Math | Medium | $O(1)$ | $O(1)$ | [Java](./LeetCode/Math/0012-integer-to-roman/) |
+| 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Math | Easy | $O(n)$ | $O(1)$ | [Java](./LeetCode/Math/0013-roman-to-integer/) |
+| 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Strings | Easy | $O(S)$ | $O(1)$ | [Java](./LeetCode/Strings/0014-longest-common-prefix/) |
+| 0015 | [3Sum](https://leetcode.com/problems/3sum/) | Arrays & Hashing / Two Pointers | Medium | $O(n^2)$ | $O(1)$ | [Java](./LeetCode/Arrays-Hashing/0015-3sum/) |
+| 0016 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Two Pointers | Medium | $O(n^2)$ | $O(1)$ | [Java](./LeetCode/Two-Pointers/0016-3sum-closest/) |
+| 0017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Backtracking | Medium | $O(4^n \times n)$ | $O(n)$ | [Java](./LeetCode/Backtracking/0017-letter-combinations-of-a-phone-number/) |
+| 0018 | [4Sum](https://leetcode.com/problems/4sum/) | Arrays & Hashing / Two Pointers | Medium | $O(n^3)$ | $O(1)$ | [Java](./LeetCode/Arrays-Hashing/0018-4sum/) |
+| 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Linked List | Medium | $O(n)$ | $O(1)$ | [Java](./LeetCode/Linked-List/0019-remove-nth-node-from-end-of-list/) |
+| 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Stack | Easy | $O(n)$ | $O(n)$ | [Java](./LeetCode/Stack/0020-valid-parentheses/) |
 
 ---
 
