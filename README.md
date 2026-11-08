@@ -126,6 +126,16 @@ Programming-Challenges/
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Linked List | Easy | $O(n)$ | $O(1)$ | [Java](./LeetCode/Linked-List/0083-remove-duplicates-sorted-list/) |
 | 0084 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Stack / Monotonic Stack | Hard | $O(n)$ | $O(n)$ | [Java](./LeetCode/Stack/0084-largest-rectangle-histogram/) |
 | 0085 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Stack / DP / Matrix | Hard | $O(rows \times cols)$ | $O(cols)$ | [Java](./LeetCode/Stack/0085-maximal-rectangle/) |
+| 0086 | [Partition List](https://leetcode.com/problems/partition-list/) | Linked List | Medium | $O(n)$ | $O(1)$ | [Java](./LeetCode/Linked-List/0086-partition-list/) |
+| 0087 | [Scramble String](https://leetcode.com/problems/scramble-string/) | Dynamic Programming | Hard | $O(n^4)$ | $O(n^3)$ | [Java](./LeetCode/Dynamic-Programming/0087-scramble-string/) |
+| 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Arrays & Hashing / Two Pointers | Easy | $O(m + n)$ | $O(1)$ | [Java](./LeetCode/Arrays-Hashing/0088-merge-sorted-array/) |
+| 0089 | [Gray Code](https://leetcode.com/problems/gray-code/) | Math / Bit Manipulation | Medium | $O(2^n)$ | $O(2^n)$ | [Java](./LeetCode/Math/0089-gray-code/) |
+| 0090 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | Backtracking | Medium | $O(n \times 2^n)$ | $O(n)$ | [Java](./LeetCode/Backtracking/0090-subsets-ii/) |
+| 0091 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | Dynamic Programming | Medium | $O(n)$ | $O(1)$ | [Java](./LeetCode/Dynamic-Programming/0091-decode-ways/) |
+| 0092 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | Linked List | Medium | $O(n)$ | $O(1)$ | [Java](./LeetCode/Linked-List/0092-reverse-linked-list-ii/) |
+| 0093 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | Backtracking / Strings | Medium | $O(1)$ | $O(1)$ | [Java](./LeetCode/Backtracking/0093-restore-ip-addresses/) |
+| 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Tree / Stack | Easy | $O(n)$ | $O(h)$ | [Java](./LeetCode/Trees/0094-binary-tree-inorder/) |
+| 0095 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | Tree / DP | Medium | $O(C_n)$ | $O(C_n)$ | [Java](./LeetCode/Trees/0095-unique-bst-ii/) |
 
 ---
 
