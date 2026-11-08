@@ -116,6 +116,16 @@ Programming-Challenges/
 | 0073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Arrays & Hashing / Matrix | Medium | $O(m \times n)$ | $O(1)$ | [Java](./LeetCode/Arrays-Hashing/0073-set-matrix-zeroes/) |
 | 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Arrays & Hashing / Binary Search | Medium | $O(\log(m \times n))$ | $O(1)$ | [Java](./LeetCode/Arrays-Hashing/0074-search-2d-matrix/) |
 | 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Arrays & Hashing / Two Pointers | Medium | $O(n)$ | $O(1)$ | [Java](./LeetCode/Arrays-Hashing/0075-sort-colors/) |
+| 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Strings / Sliding Window | Hard | $O(m + n)$ | $O(m + n)$ | [Java](./LeetCode/Strings/0076-minimum-window-substring/) |
+| 0077 | [Combinations](https://leetcode.com/problems/combinations/) | Backtracking | Medium | $O(C(n, k) \times k)$ | $O(k)$ | [Java](./LeetCode/Backtracking/0077-combinations/) |
+| 0078 | [Subsets](https://leetcode.com/problems/subsets/) | Backtracking / Bit Manipulation | Medium | $O(n \times 2^n)$ | $O(n)$ | [Java](./LeetCode/Backtracking/0078-subsets/) |
+| 0079 | [Word Search](https://leetcode.com/problems/word-search/) | Backtracking / Matrix | Medium | $O(m \times n \times 4^L)$ | $O(L)$ | [Java](./LeetCode/Backtracking/0079-word-search/) |
+| 0080 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Arrays & Hashing / Two Pointers | Medium | $O(n)$ | $O(1)$ | [Java](./LeetCode/Arrays-Hashing/0080-remove-duplicates-sorted-array-ii/) |
+| 0081 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | Arrays & Hashing / Binary Search | Medium | $O(n)$ | $O(1)$ | [Java](./LeetCode/Arrays-Hashing/0081-search-in-rotated-sorted-array-ii/) |
+| 0082 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | Linked List | Medium | $O(n)$ | $O(1)$ | [Java](./LeetCode/Linked-List/0082-remove-duplicates-sorted-list-ii/) |
+| 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Linked List | Easy | $O(n)$ | $O(1)$ | [Java](./LeetCode/Linked-List/0083-remove-duplicates-sorted-list/) |
+| 0084 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Stack / Monotonic Stack | Hard | $O(n)$ | $O(n)$ | [Java](./LeetCode/Stack/0084-largest-rectangle-histogram/) |
+| 0085 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Stack / DP / Matrix | Hard | $O(rows \times cols)$ | $O(cols)$ | [Java](./LeetCode/Stack/0085-maximal-rectangle/) |
 
 ---
 
