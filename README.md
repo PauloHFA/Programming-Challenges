@@ -61,6 +61,16 @@ Programming-Challenges/
 | 0018 | [4Sum](https://leetcode.com/problems/4sum/) | Arrays & Hashing / Two Pointers | Medium | $O(n^3)$ | $O(1)$ | [Java](./LeetCode/Arrays-Hashing/0018-4sum/) |
 | 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Linked List | Medium | $O(n)$ | $O(1)$ | [Java](./LeetCode/Linked-List/0019-remove-nth-node-from-end-of-list/) |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Stack | Easy | $O(n)$ | $O(n)$ | [Java](./LeetCode/Stack/0020-valid-parentheses/) |
+| 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Linked List | Easy | $O(n + m)$ | $O(1)$ | [Java](./LeetCode/Linked-List/0021-merge-two-sorted-lists/) |
+| 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Backtracking / Stack | Medium | $O(4^n / \sqrt{n})$ | $O(n)$ | [Java](./LeetCode/Stack/0022-generate-parentheses/) |
+| 0023 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Linked List / Heap | Hard | $O(N \log k)$ | $O(k)$ | [Java](./LeetCode/Linked-List/0023-merge-k-sorted-lists/) |
+| 0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Linked List | Medium | $O(n)$ | $O(1)$ | [Java](./LeetCode/Linked-List/0024-swap-nodes-in-pairs/) |
+| 0025 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Linked List | Hard | $O(n)$ | $O(1)$ | [Java](./LeetCode/Linked-List/0025-reverse-nodes-in-k-group/) |
+| 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Arrays & Hashing / Two Pointers | Easy | $O(n)$ | $O(1)$ | [Java](./LeetCode/Arrays-Hashing/0026-remove-duplicates-from-sorted-array/) |
+| 0027 | [Remove Element](https://leetcode.com/problems/remove-element/) | Arrays & Hashing / Two Pointers | Easy | $O(n)$ | $O(1)$ | [Java](./LeetCode/Arrays-Hashing/0027-remove-element/) |
+| 0028 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Strings / Two Pointers | Easy | $O(n \times m)$ | $O(1)$ | [Java](./LeetCode/Strings/0028-find-the-index-of-the-first-occurrence-in-a-string/) |
+| 0029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | Math / Bit Manipulation | Medium | $O(\log n)$ | $O(1)$ | [Java](./LeetCode/Math/0029-divide-two-integers/) |
+| 0030 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | Strings / Sliding Window | Hard | $O(n \times k)$ | $O(m \times k)$ | [Java](./LeetCode/Strings/0030-substring-with-concatenation-of-all-words/) |
 
 ---
 
