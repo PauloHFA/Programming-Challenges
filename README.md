@@ -153,6 +153,17 @@ Programming-Challenges/
 | 0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Tree / DFS | Easy | $O(n)$ | $O(h)$ | [Java](./LeetCode/Trees/0110-balanced-binary-tree/) |
 | 0111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Tree / BFS | Easy | $O(n)$ | $O(w)$ | [Java](./LeetCode/Trees/0111-min-depth/) |
 | 0112 | [Path Sum](https://leetcode.com/problems/path-sum/) | Tree / DFS | Easy | $O(n)$ | $O(h)$ | [Java](./LeetCode/Trees/0112-path-sum/) |
+| 0113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | Tree / DFS / Backtracking | Medium | $O(n)$ | $O(h)$ | [Java](./LeetCode/Trees/0113-path-sum-ii/) |
+| 0114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | Tree / DFS | Medium | $O(n)$ | $O(h)$ | [Java](./LeetCode/Trees/0114-flatten-binary-tree/) |
+| 0116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | Tree / BFS / DFS | Medium | $O(n)$ | $O(1)$ | [Java](./LeetCode/Trees/0116-populating-next-right-pointers/) |
+| 0117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | Tree / BFS / DFS | Medium | $O(n)$ | $O(1)$ | [Java](./LeetCode/Trees/0117-populating-next-right-pointers-ii/) |
+| 0124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Tree / DFS | Hard | $O(n)$ | $O(h)$ | [Java](./LeetCode/Trees/0124-binary-tree-max-path-sum/) |
+| 0129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | Tree / DFS / BFS | Medium | $O(n)$ | $O(h)$ | [Java](./LeetCode/Trees/0129-sum-root-to-leaf-numbers/) |
+| 0144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Tree / Stack / Morris | Easy | $O(n)$ | $O(h)$ | [Java](./LeetCode/Trees/0144-binary-tree-preorder/) |
+| 0145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Tree / Stack / Morris | Easy | $O(n)$ | $O(h)$ | [Java](./LeetCode/Trees/0145-binary-tree-postorder/) |
+| 0156 | [Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/) | Tree / DFS | Medium | $O(n)$ | $O(h)$ | [Java](./LeetCode/Trees/0156-binary-tree-upside-down/) |
+| 0173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | Tree / Stack / Iterator | Medium | $O(1)$ amortized | $O(h)$ | [Java](./LeetCode/Trees/0173-bst-iterator/) |
+| 0199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | Tree / BFS / DFS | Medium | $O(n)$ | $O(w)$ | [Java](./LeetCode/Trees/0199-binary-tree-right-side-view/) |
 
 ---
 
