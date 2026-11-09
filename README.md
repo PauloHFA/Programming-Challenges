@@ -136,6 +136,23 @@ Programming-Challenges/
 | 0093 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | Backtracking / Strings | Medium | $O(1)$ | $O(1)$ | [Java](./LeetCode/Backtracking/0093-restore-ip-addresses/) |
 | 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Tree / Stack | Easy | $O(n)$ | $O(h)$ | [Java](./LeetCode/Trees/0094-binary-tree-inorder/) |
 | 0095 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | Tree / DP | Medium | $O(C_n)$ | $O(C_n)$ | [Java](./LeetCode/Trees/0095-unique-bst-ii/) |
+| 0096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | Tree / DP | Medium | $O(n)$ | $O(n)$ | [Java](./LeetCode/Trees/0096-unique-bst/) |
+| 0097 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | Dynamic Programming | Hard | $O(m \times n)$ | $O(m \times n)$ | [Java](./LeetCode/Dynamic-Programming/0097-interleaving-string/) |
+| 0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Tree / DFS | Medium | $O(n)$ | $O(h)$ | [Java](./LeetCode/Trees/0098-validate-bst/) |
+| 0099 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | Tree / DFS | Hard | $O(n)$ | $O(h)$ | [Java](./LeetCode/Trees/0099-recover-bst/) |
+| 0100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Tree / DFS | Easy | $O(n)$ | $O(h)$ | [Java](./LeetCode/Trees/0100-same-tree/) |
+| 0101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Tree / DFS | Easy | $O(n)$ | $O(h)$ | [Java](./LeetCode/Trees/0101-symmetric-tree/) |
+| 0102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Tree / BFS | Medium | $O(n)$ | $O(w)$ | [Java](./LeetCode/Trees/0102-binary-tree-level-order/) |
+| 0103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | Tree / BFS | Medium | $O(n)$ | $O(w)$ | [Java](./LeetCode/Trees/0103-binary-tree-zigzag/) |
+| 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Tree / DFS | Easy | $O(n)$ | $O(h)$ | [Java](./LeetCode/Trees/0104-max-depth/) |
+| 0105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Tree / DFS | Medium | $O(n)$ | $O(h)$ | [Java](./LeetCode/Trees/0105-construct-bt-preorder-inorder/) |
+| 0106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | Tree / DFS | Medium | $O(n)$ | $O(h)$ | [Java](./LeetCode/Trees/0106-construct-bt-inorder-postorder/) |
+| 0107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | Tree / BFS | Medium | $O(n)$ | $O(w)$ | [Java](./LeetCode/Trees/0107-binary-tree-level-order-ii/) |
+| 0108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Tree / DFS | Easy | $O(n)$ | $O(h)$ | [Java](./LeetCode/Trees/0108-convert-sorted-array-bst/) |
+| 0109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | Tree / DFS | Medium | $O(n)$ | $O(h)$ | [Java](./LeetCode/Trees/0109-convert-sorted-list-bst/) |
+| 0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Tree / DFS | Easy | $O(n)$ | $O(h)$ | [Java](./LeetCode/Trees/0110-balanced-binary-tree/) |
+| 0111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Tree / BFS | Easy | $O(n)$ | $O(w)$ | [Java](./LeetCode/Trees/0111-min-depth/) |
+| 0112 | [Path Sum](https://leetcode.com/problems/path-sum/) | Tree / DFS | Easy | $O(n)$ | $O(h)$ | [Java](./LeetCode/Trees/0112-path-sum/) |
 
 ---
 
